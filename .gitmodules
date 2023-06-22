@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CaDrA"]
+	path = CaDrA
+	url = https://github.com/montilab/cadra
+	shallow = true
+	registered = true
 [submodule "hypeR"]
 	path = hypeR
 	url = https://github.com/montilab/hyper
